@@ -1,5 +1,5 @@
 #ifndef ARRAY_HPP
-#defin  ARRAY_HPP
+#define  ARRAY_HPP
 
 #include <ostream>
 #include <sstream>
